@@ -27,3 +27,26 @@ It checks whether a password is strong or weak based on basic security rules.
 2. Install Tkinter (if not installed)
 
 For Linux:
+sudo apt install python3-tk
+
+
+3. Run the program:
+python password_checker.py
+
+---
+
+## 📸 Output
+The application opens a window where:
+- User enters a password
+- Clicks "Check Strength"
+- Gets result instantly
+
+---
+
+## 📌 Project Purpose
+This project was created to understand basic cybersecurity concepts like password strength and user input validation.
+
+---
+
+## 👨‍💻 Author
+Riyanshu Raj
