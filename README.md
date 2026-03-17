@@ -26,8 +26,8 @@ It checks whether a password is strong or weak based on basic security rules.
 1. Make sure Python is installed  
 2. Install Tkinter (if not installed)
 
-For Linux:
-sudo apt install python3-tk
+ For Linux:
+ sudo apt install python3-tk
 
 
 3. Run the program:
